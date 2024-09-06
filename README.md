@@ -36,7 +36,7 @@ Kısaltılmış linklerin direkt göndermeye çalıştığı siteye yönlendirer
 
 3. [ProtonVPN](https://protonvpn.com/download)
 
-**Türkiye'de sitesi zaman zaman yasaklanıyor o yüzden indirmekte ve çalıştırmakta sıkıntı çekebilirsin.** Kullanması bedava, hızı fena değil, Türkiye'de yasak olan sitelere girebiliyor fakat bedava versiyonu P2P bağlantıları desteklemiyor. Yani torrent indirirken/yüklerken IP'ni saklamaz ama zaten Türkiye'de saklamana gerek yok. Windows dışında iOS, Android, macOS, Linux
+**Türkiye'de sitesi zaman zaman yasaklanıyor o yüzden indirmekte ve çalıştırmakta sıkıntı çekebilirsin.** Kullanması bedava, hızı fena değil, Türkiye'de yasak olan sitelere girebiliyor fakat bedava versiyonu P2P bağlantıları desteklemiyor. Yani torrent indirirken/yüklerken IP'ni saklamaz ama zaten Türkiye'de saklamana gerek yok. Windows dışında iOS, Android, macOS, Linux uygulamalaeı da var.
 
 4. [qBitTorrent](https://www.qbittorrent.org/download)
 
