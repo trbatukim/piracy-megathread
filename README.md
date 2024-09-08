@@ -20,33 +20,37 @@
 
 1. Firefox + uBlock Origin
 
-İnternette reklamsız ve anonim gezmenin ek kolay ve iyi yollarından biri (Benim kişisel tercihim).
+İnternette reklamsız ve anonim gezmenin en kolay ve iyi yollarından biri (Benim kişisel tercihim).
 
 - [Firefox](https://www.mozilla.org/tr/firefox/new/)
 - uBlock Origin
   - [Chrome/Brave/Edge/Chromium için](https://chromewebstore.google.com/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm)
   - [Firefox için](https://addons.mozilla.org/tr/firefox/addon/ublock-origin/)
 
-2. FastForward
+2. [AdGuard DNS](https://adguard-dns.io/en/public-dns.html)
+
+Bilinen reklam sevrerlarını engelleyerek o modeme bağlı olan cihazlarda reklamları engeller.<br/>Aynı zamanda cihazın kendisine de kurulabilir.
+
+3. FastForward
 
 Kısaltılmış linklerin direkt göndermeye çalıştığı siteye yönlendirerek gizliliği korumaya yardımcı olur.
 
 - [Firefox için](https://addons.mozilla.org/en-US/firefox/addon/fastforwardteam/)
 - [Chrome/Brave/Edge/Chromium için](https://chromewebstore.google.com/detail/fastforward/icallnadddjmdinamnolclfjanhfoafe)
 
-3. [ProtonVPN](https://protonvpn.com/download)
+4. [ProtonVPN](https://protonvpn.com/download)
 
-**Türkiye'de sitesi zaman zaman yasaklanıyor o yüzden indirmekte ve çalıştırmakta sıkıntı çekebilirsin.** Kullanması bedava, hızı fena değil, Türkiye'de yasak olan sitelere girebiliyor fakat bedava versiyonu P2P bağlantıları desteklemiyor. Yani torrent indirirken/yüklerken IP'ni saklamaz ama zaten Türkiye'de saklamana gerek yok. Windows dışında iOS, Android, macOS, Linux uygulamalaeı da var.
+**Türkiye'de sitesi zaman zaman yasaklanıyor o yüzden indirmekte ve çalıştırmakta sıkıntı çekebilirsin.** Kullanması bedava, hızı fena değil, Türkiye'de yasak olan sitelere girebiliyor fakat bedava versiyonu P2P bağlantıları desteklemiyor. Yani torrent indirirken/yüklerken IP'ni saklamaz ama zaten Türkiye'de saklamana gerek yok. Windows dışında iOS, Android, macOS, Linux için de uygulaması bulunuyor.
 
-4. [qBitTorrent](https://www.qbittorrent.org/download)
+5. [qBitTorrent](https://www.qbittorrent.org/download)
 
-Benim kullandığım torrent client. uTorrent'ten daha güvenli olması dışında aman aman bir ekstrası yok. Yine de geçmeni tavsiye ederim ama sana kalmış.
+Benim kullandığım torrent clientı. μTorrent'ten daha güvenli olması dışında aman aman bir ekstrası yok. Yine de geçmeni tavsiye ederim ama sana kalmış.
 
 ## Siteler <a name="siteler"></a>
 
-### Torrent Sitleri <a name="torrent-siteleri"></a>
+### Torrent Siteleri <a name="torrent-siteleri"></a>
 
-- [1337x](https://1337x.to/) - Mümkünse oyunlarınızı sadece bunlar yüklediyse indirin: (cs.rin.ru'dan herhangi biri, 0xEMPRESS, anadius, DODI, FitGirl, JohnCena141 (Linux), KaOsKrew, s7on3r, TinyRepacks).
+- [1337x](https://1337x.to/) - Mümkünse oyunlarınızı sadece bu kullanıcılar yüklediyse indirin: (cs.rin.ru'dan herhangi biri, 0xEMPRESS, anadius, DODI, FitGirl, JohnCena141 (Linux), KaOsKrew, s7on3r, TinyRepacks).
 - [EMPRESS Releases](https://telegra.ph/empress-biography-07-15)
 - [RuTor](http://www.rutor.info/) - Sadece Chovka ve FitGirl'den indirin
 - [RuTracker](https://rutracker.org/)
@@ -56,23 +60,23 @@ Benim kullandığım torrent client. uTorrent'ten daha güvenli olması dışın
 
 ### DDL Siteleri <a name="ddl-siteleri"></a>
 
-**Old/Retro PC Games**
+**Old/Retro PC Oyunları**
 
-**Çoğu eski oyun kaynağı güveilir olsa da bu sitelerden oyun indirirken dikkat edin!**
+**Çoğu eski oyun kaynağı güvenilir olsa da bu sitelerden oyun indirirken dikkat edin!**
 
 - [Archive.org - ClassicPCGames](https://archive.org/details/classicpcgames)
 - [MyAbandonware](https://www.myabandonware.com/)
 - [OldGamesDownload](https://oldgamesdownload.com/)
 
-**Modern PC Games**
+**Modern PC Oyunları**
 
-- [CS.RIN.RU - Steam Underground Community](https://cs.rin.ru/forum/) - başka sitelerde aradığını bulamazsan buraya bakabilirsin, hesap açman gerekiyor, çoğunlukla Rusça o yüzden Google Translate kullansan işine gelir. [Tor link](http://csrinrutkb3tshptdctl5lyei4et35itl22qvk5ktdcat6aeavy6nhid.onion/forum)
+- [CS.RIN.RU - Steam Underground Community](https://cs.rin.ru/forum/) - Başka sitelerde aradığını bulamazsan buraya bakabilirsin, hesap açman gerekiyor, çoğunlukla Rusça o yüzden Google Translate kullansan işine gelir. [Tor linki](http://csrinrutkb3tshptdctl5lyei4et35itl22qvk5ktdcat6aeavy6nhid.onion/forum)
 - [CS.RIN.RU - GOG Games Complete Collection](https://cs.rin.ru/forum/viewtopic.php?f=38&t=136823)
 - [DownloadHa](https://www.downloadha.com/category/%d8%a8%d8%a7%d8%b2%db%8c-%da%a9%d8%a7%d9%85%d9%be%db%8c%d9%88%d8%aa%d8%b1-pc-computer-game/) - Google Translate kullan.
 - [G4U](https://g4u.to/)
 - [GLOAD](https://gload.cc/)
 - [Gamesdrive](https://gamesdrive.net/)
-- [GOG Games](https://www.gog-games.to/) | [Tor link](http://goggamespyi7b6ybpnpnlwhb4md6owgbijfsuj6z5hesqt3yfyz42rad.onion/)
+- [GOG Games](https://www.gog-games.to/) | [Tor linki](http://goggamespyi7b6ybpnpnlwhb4md6owgbijfsuj6z5hesqt3yfyz42rad.onion/)
 - [Online-Fix](https://online-fix.me/) - online fix/bypass'ler içindir, bazı oyunlarda multiplayer oynamanı sağlar.
 - [Ovagames](http://www.ovagames.com/)
 - [RLSBB](https://rlsbb.ru/)
@@ -80,7 +84,7 @@ Benim kullandığım torrent client. uTorrent'ten daha güvenli olması dışın
 - [SteamRIP.com](https://steamrip.com/)
 - [Torrminatorr Forums](https://torrminatorr.com/) - GOG/Linux oyunları için. Hesap açman gerekiyor.
 
-**Other platforms**
+**Diğer platformlar**
 
 - [iPhoneCake](https://www.iphonecake.com/) - macOS ve iOS
 - [AppKed](https://www.macbed.com/) - macOS
@@ -92,9 +96,9 @@ Benim kullandığım torrent client. uTorrent'ten daha güvenli olması dışın
 
 #### Diğer
 
-- [UltimMC](https://github.com/UltimMC/Launcher) | [PollyMC](https://github.com/fn2006/PollyMC) (Prism Launcher Fork) | Legacy Launcher [(1)](https://llaun.ch/en) [(2)](https://ll4n.ru/) | [SKlauncher](https://skmedix.pl/) (indirmek için adblockunuzu kapatınız) - Minecraft için.
+- [UltimMC](https://github.com/UltimMC/Launcher) | [PollyMC](https://github.com/fn2006/PollyMC) (Prism Launcher Fork) | Legacy Launcher [(1)](https://llaun.ch/en) [(2)](https://ll4n.ru/) | [SKlauncher](https://skmedix.pl/) (İndirmek için adblockunuzu kapatınız) - Minecraft için.
 - [Moriya Shrine](https://moriyashrine.org/) - Touhou oyunları için.
-- [f95zone](https://f95zone.to/) - Virtual Novel tarzı oyunlar / +18 *yetişkinlere yönelik* oyunlar.
+- [f95zone](https://f95zone.to/) - Visual Novel tarzı oyunlar / +18 *yetişkinlere yönelik* oyunlar.
 
 ### Oyun Arama Motorları <a name="oyun-arama-motorlari"></a>
 
@@ -110,7 +114,7 @@ Linki olmayan kullanıcıların kendi siteleri yoktur ve forumlara yükleme yapm
 
 - [ARMGDDN](https://t.me/ARMGDDNGames) - Telegram grubu, VR oyunları da sunarlar.
 - Chovka - [RuTor Profili](http://rutor.info/browse/0/0/1642915/0) | [Telegram](https://repack.info/)
-- [CPG Repacks](https://cpgrepacks.site/) - Virtual Novellar için / Anime / +18 *yetişkinlere yönelik* oyunlar.
+- [CPG Repacks](https://cpgrepacks.site/) - Visual Novellar için / Anime / +18 *yetişkinlere yönelik* oyunlar.
 - [DODI Repacks](https://dodi-repacks.site/) [(Alternatif link)](https://dodi-repacks.download/)
 - [ElAmigos](https://elamigos.site/)
 - [FitGirl Repacks](https://fitgirl-repacks.site/)
@@ -130,7 +134,7 @@ Linki olmayan kullanıcıların kendi siteleri yoktur ve forumlara yükleme yapm
 
 Emülatörler eski/başka bir cihaza ait olan oyunları çalıştırmak için kullanılan programlardır.
 
-==NOT: Bu emülatörlerin bazıları BIOS dosyaları gerektirir ve * ile işaretlenmişlerdir.==
+**NOT: Bu emülatörlerin bazıları BIOS dosyaları gerektirir ve * ile işaretlenmişlerdir.**
 
 - [GameTechWiki](https://emulation.gametechwiki.com/) - The Emulation Wiki - Bazı emülatörler için lazım olan BIOS dosyalarını burada bulabilirsiniz.
 - [ares](https://ares-emu.net/) * | [MAME](https://www.mamedev.org/index.php) * | [Mednafen](https://mednafen.github.io/) * | [RetroArch](https://www.retroarch.com/) * | [Delta (iOS için)](https://apps.apple.com/us/app/delta-game-emulator/id1048524688) * | [OpenEmu (macOS için)](https://openemu.org/) - Çoklu-sistem Emülatörleri
@@ -170,7 +174,7 @@ ROMlar emülatörler aracılığıyla oynadığın oyunların dosya türünün g
 
 ## Denuvo Problemi <a name="denuvo"></a>
 
-Denuvo kırılması inanılmaz zor bir korsanlık engelleme programı. Bu oyunların korsan versiyonlarını bulmak çok zordur ve bazen imkansızdır. Denuvo kırmayı bilen iki korsan vardır.
+Denuvo kırılması inanılmaz zor bir korsanlık karşıtı program. Bu oyunların korsan versiyonlarını bulmak çok zordur ve bazen imkansızdır. Denuvo kırmayı bilen iki korsan vardır.
 
 - 0xEMPRESS - Yeni Denuvo oyunlarını kırabilen tek lişi, pisliğin teki, arada bir trip atmak için oyun kırmayı kesiyor ama Denuvo'nun yeni versiyonlarını kırmayı bilen tek kişi o. O yüzden bükemediğin eli öpeceksin.
 - Delusional - Denuvo'nun eski sürümlerini kırar. Daha yenidir, kırdığı çok bir oyun yoktur.
@@ -181,7 +185,7 @@ Kırılmış ve kırılmamış denuvo oyunlarının bir listesi aşağıdaki lin
 
 ## Dikkat Edilmesi Gerekenler <a name="dikkat-edilmesi-gerekenler"></a>
 
-### Güvenlimez Siteler <a name="guvenilmez-siteler"></a>
+### Güvenilmez Siteler <a name="guvenilmez-siteler"></a>
 
 Güvenilmez sitelerin bir listesi:
 
