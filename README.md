@@ -1,4 +1,3 @@
-ipconfig /flushdns
 # Korsanlık Megathread
 
 ## İçindekiler
