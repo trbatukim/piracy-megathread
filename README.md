@@ -27,7 +27,7 @@
   - [Chrome/Brave/Edge/Chromium için](https://chromewebstore.google.com/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm)
   - [Firefox için](https://addons.mozilla.org/tr/firefox/addon/ublock-origin/)
 
-2. [AdGuard DNS](https://adguard-dns.io/en/public-dns.html)
+2. [AdGuard DNS](https://adguard-dns.io/tr/public-dns.html#:~:text=A%C4%9F%20alt%C4%B1nda%20Ayarlar%20%C3%B6%C4%9Fesini%20se%C3%A7in,ard%C4%B1ndan%20DNS%20Ayarlar%C4%B1%20%C3%B6%C4%9Fesini%20se%C3%A7in.&text=AdGuard%20DNS%2C%20reklamlar%C4%B1%20ve%20izleyicileri%20engeller.,-Non%2Dfiltering%20sunucular)
 
 Bilinen reklam sevrerlarını engelleyerek o modeme bağlı olan cihazlarda reklamları engeller.<br/>Aynı zamanda cihazın kendisine de kurulabilir.
 
