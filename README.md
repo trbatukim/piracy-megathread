@@ -1,9 +1,10 @@
+ipconfig /flushdns
 # Korsanlık Megathread
 
 ## İçindekiler
 
 1. [İşe Yarar Yazılımlar/Eklentiler](#ise-yarar-yazilimlar)
-2. [Siteler](#siteler)
+2. [Oyun Siteleri](#oyun-siteleri)
    1. [Torrent Siteleri](#torrent-siteleri)
    2. [DDL (Direkt indirme) Siteleri](#ddl-siteleri)
    3. [Oyun Arama Motorları](#oyun-arama-motorlari)
@@ -46,7 +47,7 @@ Kısaltılmış linklerin direkt göndermeye çalıştığı siteye yönlendirer
 
 Benim kullandığım torrent clientı. μTorrent'ten daha güvenli olması dışında aman aman bir ekstrası yok. Yine de geçmeni tavsiye ederim ama sana kalmış.
 
-## Siteler <a name="siteler"></a>
+## Oyun Siteleri <a name="oyun-siteleri"></a>
 
 ### Torrent Siteleri <a name="torrent-siteleri"></a>
 
