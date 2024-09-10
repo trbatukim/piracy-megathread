@@ -11,7 +11,8 @@
 5. [Emülatörler](#emulatorler)
 6. [ROM Siteleri](#rom-siteleri)
 7. [Denuvo Problemi](#denuvo)
-8. [Dikkat Edilmesi Gerekenler](#dikkat-edilmesi-gerekenler)
+8. [Windows/Office Aktifleştirme](#mas)
+9. [Dikkat Edilmesi Gerekenler](#dikkat-edilmesi-gerekenler)
    1. [Güvenilmez Siteler](#guvenilmez-siteler)
    2. [Güvenilmez Korsanlar](#guvenilmez-korsanlar)
    3. [Güvenilmez Yazılımlar](#guvenilmez-yazilimlar)
@@ -182,6 +183,16 @@ Denuvo kırılması inanılmaz zor bir korsanlık karşıtı program. Bu oyunlar
 Kırılmış ve kırılmamış denuvo oyunlarının bir listesi aşağıdaki linkte bulunmaktadır:
 
 - [r/CrackWatch](https://www.reddit.com/r/CrackWatch/comments/p9ak4n/crack_watch_games/)
+
+## Windows/Office Aktifleştirme
+
+### Microsoft Activation Scripts <a name="mas"></a>
+
+Aşağıdaki kodu bir Powershell terminaline yapıştırarak Windows'unuzu veya Office uygulamalarını aktifleştirebilirsiniz.
+
+```
+irm https://get.activated.win | iex
+```
 
 ## Dikkat Edilmesi Gerekenler <a name="dikkat-edilmesi-gerekenler"></a>
 
