@@ -47,6 +47,14 @@ Kısaltılmış linklerin direkt göndermeye çalıştığı siteye yönlendirer
 
 Benim kullandığım torrent clientı. μTorrent'ten daha güvenli olması dışında aman aman bir ekstrası yok. Yine de geçmeni tavsiye ederim ama sana kalmış.
 
+6. HEVC Video Uzantıları
+
+Windows bazı fotoğraf ve video türlerini açabilmek için sizden HEVC Video Uzantılarını satın almanızı isteyebilir. HEVC Video Uzantılarını bedavaya elde etmek için tek yapmanız gereken [Microsoft Store - Generator Project](https://store.rg-adguard.net/) sitesine aşağıdaki linki yapıştırmak ve en altta çıkan (yani boyutu en büyük olan) dosyayı indirerek kurmak.
+
+```
+https://www.microsoft.com/store/productId/9N4WGH0Z6VHQ
+```
+
 ## Oyun Siteleri <a name="oyun-siteleri"></a>
 
 ### Torrent Siteleri <a name="torrent-siteleri"></a>
