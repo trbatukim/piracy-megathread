@@ -41,13 +41,17 @@ Kısaltılmış linklerin direkt göndermeye çalıştığı siteye yönlendirer
 
 4. [ProtonVPN](https://protonvpn.com/download)
 
-**Türkiye'de sitesi zaman zaman yasaklanıyor o yüzden indirmekte ve çalıştırmakta sıkıntı çekebilirsin.** Kullanması bedava, hızı fena değil, Türkiye'de yasak olan sitelere girebiliyor fakat bedava versiyonu P2P bağlantıları desteklemiyor. Yani torrent indirirken/yüklerken IP'ni saklamaz ama zaten Türkiye'de saklamana gerek yok. Windows dışında iOS, Android, macOS, Linux için de uygulaması bulunuyor.
+**Türkiye'de sitesi zaman zaman yasaklanıyor o yüzden indirmekte ve çalıştırmakta sıkıntı çekebilirsin. Böyle bir sorun yaşarsanız bir sonraki hizmeti kullanın.** Kullanması bedava, hızı fena değil, Türkiye'de yasak olan sitelere girebiliyor fakat bedava versiyonu P2P bağlantıları desteklemiyor. Yani torrent indirirken/yüklerken IP'ni saklamaz ama zaten Türkiye'de saklamana gerek yok. Windows dışında iOS, Android, macOS, Linux için de uygulaması bulunuyor.
 
-5. [qBitTorrent](https://www.qbittorrent.org/download)
+5. [CroxyProxy](https://www.croxyproxy.com/)
+
+VPN kurmaya/açmaya üşeniyorsanız yasaklı websitelere girmek için kullanılabilecek bir proxy servisi. ProtonVPN kurmaya karar verdiyseniz sitesine erişmek için kullanılabilir.
+
+6. [qBitTorrent](https://www.qbittorrent.org/download)
 
 Benim kullandığım torrent clientı. μTorrent'ten daha güvenli olması dışında aman aman bir ekstrası yok. Yine de geçmeni tavsiye ederim ama sana kalmış.
 
-6. HEVC Video Uzantıları
+7. HEVC Video Uzantıları
 
 Windows bazı fotoğraf ve video türlerini açabilmek için sizden HEVC Video Uzantılarını satın almanızı isteyebilir. HEVC Video Uzantılarını bedavaya elde etmek için tek yapmanız gereken [Microsoft Store - Generator Project](https://store.rg-adguard.net/) sitesine aşağıdaki linki yapıştırmak ve en altta çıkan (yani boyutu en büyük olan) dosyayı indirerek kurmak.
 
