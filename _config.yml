@@ -1,5 +1,4 @@
 theme: jekyll-theme-minimal
 title: AAASAS
 description: Bookmark this to keep an eye on my project updates!
-markdown_extensions:
-  - sane_lists
+markdown: GFM
