@@ -6,11 +6,12 @@
    2. [DDL (Direkt indirme) Siteleri](#ddl-siteleri)
    3. [Oyun Arama Motorları](#oyun-arama-motorlari)
    4. [Repack Siteleri](#repack-siteleri)
-5. [Emülatörler](#emulatorler)
-6. [ROM Siteleri](#rom-siteleri)
-7. [Denuvo Problemi](#denuvo)
-8. [Windows/Office Aktifleştirme](#mas)
-9. [Dikkat Edilmesi Gerekenler](#dikkat-edilmesi-gerekenler)
+3. [Çizgi Roman Siteleri](#cizgi-roman-siteleri)
+4. [Emülatörler](#emulatorler)
+5. [ROM Siteleri](#rom-siteleri)
+6. [Denuvo Problemi](#denuvo)
+7. [Windows/Office Aktifleştirme](#mas)
+8. [Dikkat Edilmesi Gerekenler](#dikkat-edilmesi-gerekenler)
    1. [Güvenilmez Siteler](#guvenilmez-siteler)
    2. [Güvenilmez Korsanlar](#guvenilmez-korsanlar)
    3. [Güvenilmez Yazılımlar](#guvenilmez-yazilimlar)
@@ -144,6 +145,16 @@ Linki olmayan kullanıcıların kendi siteleri yoktur ve forumlara yükleme yapm
 - [Tiny Repacks](https://www.tiny-repacks.win/)
 - [Xatab](https://byxatab.com/)
 - ZAZIX
+
+## Çizgi Roman Siteleri <a name="cizgi-roman-siteleri"></a>
+
+### DDL Siteleri
+
+- [Get Comics](https://getcomics.org/)
+
+### Online Okuma Siteleri
+
+- [Read Comics Online](https://readcomicsonline.ru/)
 
 ## Emülatörler <a name="emulatorler"></a>
 
